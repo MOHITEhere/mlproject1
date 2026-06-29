@@ -190,4 +190,4 @@ On every push to `main`:
 Atharva
 B.Tech Student | RAIT, DY Patil University
 GATE DA AIR 7007
-[GitHub](https://github.com/<your-username>) | [LinkedIn](https://linkedin.com/in/<your-profile>)
+
